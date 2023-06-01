@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="2dp"
+        android:color="#177381" />
+    <solid android:color="@color/white" /> <!-- Ustawienie wypełnienia na czerwony (#FF0000) -->
+    <corners android:radius="10dp" />
+</shape>

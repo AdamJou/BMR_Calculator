@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/background_fade.xml" value="0.1145" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/gradient.xml" value="0.176" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/selector.xml" value="0.1145" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/splash_background.xml" value="0.2125" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/stroke.xml" value="0.2165" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/strokefilled.xml" value="0.198" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/drawable/strokefilledsex.xml" value="0.1145" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/layout/activity_main.xml" value="0.30559006211180123" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/BMRCalculator/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
